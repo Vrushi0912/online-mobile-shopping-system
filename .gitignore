@@ -1,0 +1,24 @@
+# C++ Build Artifacts
+*.exe
+*.o
+*.obj
+*.dll
+*.lib
+*.a
+*.pdb
+
+# IDE/Editor Files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS Generated
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# Directories (if any specific build dirs created)
+build/
+bin/
+dist/
